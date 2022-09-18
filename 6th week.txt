@@ -1,0 +1,131 @@
+Note:Programming is simply giving instructions to the
+computer.//
+
+Arithmetic Operators//
++ Addition, Concatenation
+- Subtraction
+/ Division
+* Multiplication
+% Modulus
+
+DATA TYPES//
+- Number (Integers,Floats,Double)
+- String "Kunle" "Sola" "Fiyin1234"
+- Boolean (true,false)
+= Assignment Operator
+== Equal to
+=== Exactly equal to
+
+LOGICAL OPERATOR//
+AND &&
+OR ||
+NOT !
+
+COMPARISON OPERATORS
+> GRATER THAN
+< LESS THAN
+>= GRATER THAN EQUALT
+<= LESSER THAN EQUALT
+
+ASSIGNMENT tuesday2-august-2022//
+1. What is the diff btwn a float and a double.
+2. What is the difference between == and ===
+3. Create a variable that stores numbers. Write 
+a conditional statement that checks if the number
+is an odd number, or an even number.
+4. Create a variable, stores numbers. Write a
+conditional statement that checks if divisible by 2,
+if the number is divisble by 3, if the number is
+divisible by 5, without any remainder.
+5. create a variable that stores jamb score,
+create another variable that stores the cutoff mark,
+conditional statement that checks if the passes or 
+fails based on the cut-off mark.
+
+
+VARIABLE DECLERATION//
+Variables are containers that store data
+
+Variable Declaration Rules//
+- Do not start with a capital letter
+- You cannot have spaces
+
+ASSIGNMENT
+Create a ATM machine//
+
+TYPES OF VIRIABLE//
+Global variable - Lives outside a funcionn
+local variable - Lives inside of a function 
+
+Types of elements in Javascript// 
+Editable - Input, Textarea (value)
+Uneditable - div(InnerText, InnerHtml)
+
+Assignment thursay4-8-22//
+1. Build a grading system (oluwafemi.netlify.com)
+2. Atm machine
+
+DAY four 8-08-22//
+ARRAY OBJECT [ ]
+- Mutable
+- Ordered : THE INDEX STARTS FROM 0
+
+Arrays are ordered and they start from an index of 0
+5 ARRAY METHODS
+array.pop() //removes an item from the last index
+array.push()
+array.splice()
+array.slice()
+
+DRY - Don't Repeat Yourself\
+Assignment
+- check out prompt in javascript
+- 5 Array Methods 
+- Basic Calculator
+
+Javascript Objects
+- Mutable
+- Unordered
+- Key : Value Pair
+- Properties and Methods.
+
+* Dot Notation, Bracket Notation
+
+Math.round() Math.ceil() Math.floor()
+
+ASSIGNMENT 
+- Difference between dot notation and bracket notation
+
+ASSIGNMENT
+- Check if all the fields are filled
+- Clear the inputs once they sign up
+- Add a uniquely generated matric no
+- Add the date and time they signed up
+
+11/08/2022
+Persistent Data
+Local Storage
+- It only saves data to the browser
+- It only saves Strings
+* setitem
+* getitem
+* removeitem
+- JSON (Javascript Object Notation).
+Mon 16-8//
+* LOOPS/ITERATIONS LANGUAGE
+* for loops
+* for in
+* for of
+* while
+* do while
+- Infinite Loop 
+- Increment and Decrement operator
+ tues 16-8//	
+Multiplication Tables using Loop.(2*1)
+ASSIGNMENT
+1) Checkout the break and continue keyword in javascript
+2) lyrics of 100 bottles of beer on the wall
+3) Evaluation Table
+
+[\w]+(@)[\w]+[.][\w]+[.][\w]+
+adewoleadekunlemercy@gmail.com.uk
